@@ -39,4 +39,6 @@ https://github.com/World-Hackers
 31| [Dishathon](https://incubateind.com/dishathon2020/) | Jun 19 - 21 2020 | IncubateIND | Grand Finalist : Top 10 pan India |
 32| [ThoughtWorks Social Hackathon](https://dare2compete.com/o/thoughtworks-the-social-hackathon-thoughtworks-technologies-111680) | Jun 27 2020 | ThoughtWorks | First prize winner; 700$ |
 33| [Global Design Challenge](https://global-design-challenge.devpost.com/) | July 2020 | Devpost | Incubation for the project|
+34| [Hack MIT](https://hackmit.org/) | September 18-20 2020 | [Spectacle](https://spectacle.hackmit.org/) | 2nd Prize win in Intersystems Track; $400 |
 
+### This README.md is not updated since HackMIT.  All updates are now done in this [spreadsheet](https://docs.google.com/spreadsheets/d/1-cvS-r8_Xf9-CMedUa3BFR-2AulcdfCuzI8YswUR7hk/edit?usp=sharing). Or you can see the updates directly at [https://pulkitmidha.com/Hackathons/](https://pulkitmidha.com/Hackathons/)
